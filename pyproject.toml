@@ -1,0 +1,16 @@
+[project]
+name = "sortinator"
+version = "0.1.0"
+description = ""
+authors = [{ name = "MrPandir", email = "MrPandir@users.noreply.github.com" }]
+dependencies = ["customtkinter>=5.2.2"]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[tool.rye]
+managed = true
+virtual = true
+
+[tool.rye.scripts]
+test = "python3 -m unittest discover -s tests -v"
+app = "python3 main.py"
