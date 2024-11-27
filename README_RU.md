@@ -4,7 +4,9 @@
 
 Красивое GUI-приложение для сортировки чисел с выбором алгоритма и выводом времени сортировки, **по фану** :)
 
-![Preview](images/preview.png)
+<div align="center">
+  <img src="images/preview.png" width="65%"/>
+</div>
 
 # Установка и использование
 

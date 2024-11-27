@@ -4,7 +4,9 @@ Languages: ENG, [RU](./README_RU.md)
 
 Beautiful GUI application for sorting numbers with algorithm selection and sorting time output, **for fun** :)
 
-![Preview](images/preview.png)
+<div align="center">
+  <img src="images/preview.png" width="65%"/>
+</div>
 
 # Installation and Usage
 
